@@ -1,0 +1,12 @@
+# versions used for the results in the paper (Python 3.13)
+torch==2.15.0
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+scipy==1.18.1
+opacus==1.6.0
+kyber-py==1.2.0
+dilithium-py==1.5.1
+cryptography==50.0.1
+catboost==1.2.10
+pytest
