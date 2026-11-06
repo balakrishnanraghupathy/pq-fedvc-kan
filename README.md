@@ -41,8 +41,8 @@ results/                JSON output of every run reported in the paper, see resu
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/PQ-FedVC-KAN.git
-cd PQ-FedVC-KAN
+git clone https://github.com/balakrishnanraghupathy/pq-fedvc-kan.git
+cd pq-fedvc-kan
 python -m pip install -r requirements.txt
 python -m pytest -q tests
 python examples/quickstart.py            # add --dp 4 for DP-SGD with epsilon = 4
